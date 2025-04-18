@@ -12,7 +12,7 @@ This program takes a job description and ranks candidate resume according to rel
 4. streamlit run main.py
 ```
 
-Once the streamlit app opens, you can type the desired job description into the text field and click the generate weighted job descriptino button.
+Once the streamlit app opens, you can type the desired job description into the text field and click the generate weighted job description button.
 
 Then select the number of threads(this indicates the number of resume to be analyzes at a time) and click analyse.
 

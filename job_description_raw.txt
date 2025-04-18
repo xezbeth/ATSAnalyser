@@ -1,0 +1,43 @@
+About the job
+
+Job Title: Generative AI Developer
+
+Location:
+
+Employment Type: Full-Time
+
+Job Overview:
+
+We are seeking a Generative AI Developer with expertise in AI/ML, deep learning, and large language models (LLMs). The ideal candidate will design, develop, and deploy cutting-edge AI-powered applications, leveraging NLP, computer vision, and generative AI frameworks. If you are passionate about AI and want to work on transformative AI solutions, this role is for you!
+
+Key Responsibilities:
+
+    Design, build, and optimize Generative AI models for text, image, and multimodal applications.
+    Work with LLMs, transformers, and diffusion models to create innovative AI-powered solutions.
+    Implement and fine-tune models using frameworks like TensorFlow, PyTorch, and Hugging Face.
+    Develop and integrate AI models into scalable cloud-based applications (AWS, Azure, GCP).
+    Research and apply cutting-edge AI techniques to enhance model performance and efficiency.
+    Collaborate with cross-functional teams to deploy AI solutions in real-world applications.
+    Optimize models for efficiency, accuracy, and low latency in production environments.
+
+Required Skills & Experience:
+
+    3+ years of experience in AI/ML development, with a focus on Generative AI.
+    Proficiency in Python and deep learning frameworks (PyTorch, TensorFlow).
+    Hands-on experience with transformers, LLMs, and generative models (GPT, BERT, Stable Diffusion).
+    Strong understanding of NLP, computer vision, and deep learning architectures.
+    Experience with cloud-based AI services (AWS Sagemaker, Azure AI, Google Vertex AI).
+    Knowledge of MLOps, model deployment, and optimization techniques.
+
+Nice to Have:
+
+    Experience with fine-tuning LLMs and prompt engineering.
+    Familiarity with Reinforcement Learning from Human Feedback (RLHF).
+    Exposure to vector databases (FAISS, Pinecone, ChromaDB) for retrieval-augmented generation (RAG).
+    AI certifications (AWS Machine Learning, Google AI, etc.).
+
+Why Join Us?
+
+    Work on state-of-the-art AI innovations.
+    Collaborate with industry-leading AI experts.
+    Opportunities for continuous learning and growth.

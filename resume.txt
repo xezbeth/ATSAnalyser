@@ -1,0 +1,44 @@
+Jane corby
+Generative AI Engineer with specialized expertise in Large Language Models (LLMs) and production AI systems. Proven
+track record in implementing end-to-end LLM applications, including RAG systems, conversational AI, and multi-modal
+solutions. Deep experience in optimizing ML pipelines and deploying scalable AI solutions using cloud infrastructure. Strong
+background in prompt engineering, model fine-tuning, and MLOps practices. MSc in Artificial Intelligence with focus on
+practical implementation of cutting-edge ML
+Location: Kochi, Kerala
+technologies.
+Experience
+ Architected and deployed production-grade RAG systems using LangChain and OpenAI, implementing vector search
+optimization with Redis and semantic caching, resulting in 60% reduced latency and 85% improved content relevancy
+ Developed end-to-end conversational AI platform incorporating custom LLM implementations, fine-tuned models, and
+advanced prompt engineering techniques for improved context handling
+ Built scalable ML pipelines using Docker and FastAPI on AWS EC2, achieving 99% uptime through robust MLOps practices
+and efficient model optimization
+ Implemented multi-modal LLM applications combining text, speech, and computer vision capabilities, including real-time
+lip sync and avatar generation
+ Led cross-functional teams in developing and deploying custom fine-tuned models for specific business domains, resulting
+in 70% improvement in user engagement
+ Designed and implemented automated CI/CD pipelines for ML model deployment, incorporating monitoring and testing.
+Artificial Intelligence Developer - SparkLab, United Kingdom (March 2023 - Dec 2024,1.9 years)
+Skills
+Languages & Frameworks
+ Python (Advanced): NumPy, Pandas, Scikit-learn, OpenCV, Matplotlib,Data Validation, ETL Pipelines
+ Deep Learning: PyTorch, TensorFlow, Keras, Hugging Face Transformers, Langchain, OpenAI
+ Production: FastAPI, Airflow, AWS EC2 , Redis, Docker
+ Conversational AI : RAG, LLM, TTS (Text to speech), STT (Speech to text), Fine tuning, Virtual agents, vector search
+Core Competencies
+ Machine Learning: Classification, Regression, Clustering, Computer Vision, NLP , Generative AI, prompt engineering
+ MLOps: Pipeline Development, Model Deployment, Performance Optimization, model migration (ONNX)
+ Development: Data Structures & Algorithms, API Design, Cross-team Collaboration
+Qualifications
+❖ Loughborough University, UK OCT 2022
+MSc in Artificial Intelligence
+Summary
+Machine Learning Developer - Ivy, United Kingdom (Nov 2022 - March 2023, 5 months)
+ Developed APIs for transformer model implementations across multiple frameworks, reducing development cycle by 40%
+ Contributed to core ML infrastructure development focusing on model training, inference optimization, and evaluation
+ Implemented standardized data processing pipelines for computer vision and NLP tasks, resulting in 50% faster model
+development cycles
+ Authored comprehensive technical documentation and experimental analysis reports, facilitating knowledge sharing across
+the open-source community
+❖ Ilahia college of engg and tech, India JUL 2020
+BTech in Computer Science
